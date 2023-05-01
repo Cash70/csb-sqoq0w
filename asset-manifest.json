@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://cash70.github.io/csb-sqoq0w/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://cash70.github.io/csb-sqoq0w/static/js/main.5222277f.chunk.js",
+    "main.js.map": "https://cash70.github.io/csb-sqoq0w/static/js/main.5222277f.chunk.js.map",
+    "runtime-main.js": "https://cash70.github.io/csb-sqoq0w/static/js/runtime-main.79eb5db4.js",
+    "runtime-main.js.map": "https://cash70.github.io/csb-sqoq0w/static/js/runtime-main.79eb5db4.js.map",
+    "static/css/2.62e7949a.chunk.css": "https://cash70.github.io/csb-sqoq0w/static/css/2.62e7949a.chunk.css",
+    "static/js/2.0f633cca.chunk.js": "https://cash70.github.io/csb-sqoq0w/static/js/2.0f633cca.chunk.js",
+    "static/js/2.0f633cca.chunk.js.map": "https://cash70.github.io/csb-sqoq0w/static/js/2.0f633cca.chunk.js.map",
+    "index.html": "https://cash70.github.io/csb-sqoq0w/index.html",
+    "static/css/2.62e7949a.chunk.css.map": "https://cash70.github.io/csb-sqoq0w/static/css/2.62e7949a.chunk.css.map",
+    "static/css/main.f29ae65a.chunk.css.map": "https://cash70.github.io/csb-sqoq0w/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.0f633cca.chunk.js.LICENSE.txt": "https://cash70.github.io/csb-sqoq0w/static/js/2.0f633cca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79eb5db4.js",
+    "static/css/2.62e7949a.chunk.css",
+    "static/js/2.0f633cca.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.5222277f.chunk.js"
+  ]
+}
